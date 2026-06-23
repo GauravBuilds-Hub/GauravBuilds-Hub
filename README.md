@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Gaurav Sharma 👋
 
-<!--
-**GauravBuilds-Hub/GauravBuilds-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Graduate | Web Developer & Cybersecurity Analyst 🛡️💻
 
-Here are some ideas to get you started:
+I am a technical professional specializing in bridging the gap between web application development and proactive digital security. I focus on building robust, responsive web projects and rigorously testing them against modern threat frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Technical Stack
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Development** | HTML5, CSS3, JavaScript, Bootstrap, Git, Web Architecture |
+| **Cybersecurity** | Linux CLI, Network Security, Wireshark, SIEM Basics, Python Scripting |
+
+---
+
+### 📈 What I'm Focused On
+- 🌐 Building modern, fully accessible web applications.
+- 🔒 Implementing defensive coding standards (OWASP Top 10 mitigation).
+- 🐍 Automating security workflows using Python and Bash scripts.
+
+---
+
+### 🤝 Connect With Me
+[@LinkedIn](YOUR_LINKEDIN_URL) | ✉️ [Email Me](mailto:your.email@example.com)## Hi there 👋
