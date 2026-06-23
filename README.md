@@ -23,4 +23,4 @@ I am a technical professional specializing in bridging the gap between web appli
 ---
 
 ### 🤝 Connect With Me
-[@LinkedIn](YOUR_LINKEDIN_URL) | ✉️ [Email Me](mailto:your.email@example.com)## Hi there 👋
+[@LinkedIn](YOUR_LINKEDIN_URL) | ✉️ [Email Me](mailto:gs443004@gmail.com)## Hi there 👋
